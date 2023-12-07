@@ -33,6 +33,9 @@ export default function RegisterPage() {
           REGISTER
         </button>
       </form>
+
+
+      
     </div>
   );
 }
